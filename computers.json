@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "627e1145df65f63f27b64d68"
+  },
+  "netname": "user1",
+  "motherboard": "motherboard1",
+  "RAM_capacity": 44000,
+  "HDD_capacity": 1535300,
+  "monitor": "monitor1",
+  "vendor": "Asus",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1656924800000"
+    }
+  },
+  "processor": "processor1",
+  "software": "FireFox"
+},{
+  "_id": {
+    "$oid": "627e146b5fbebdb7f0ddfc7b"
+  },
+  "netname": "user2",
+  "motherboard": "motherboard2",
+  "RAM_capacity": 3000,
+  "HDD_capacity": 345464565,
+  "monitor": "monitor2",
+  "vendor": "NVidia",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1563152000000"
+    }
+  },
+  "processor": "processor2",
+  "software": "Opera"
+},{
+  "_id": {
+    "$oid": "627e150f5fbebdb7f0ddfc7e"
+  },
+  "netname": "user3",
+  "motherboard": "motherboard3",
+  "RAM_capacity": 15000,
+  "HDD_capacity": 54555555,
+  "monitor": "monitor3",
+  "vendor": "Gigabyte",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1594625600000"
+    }
+  },
+  "processor": "processor3",
+  "software": "Google Chrome"
+},{
+  "_id": {
+    "$oid": "627e15b95fbebdb7f0ddfc7f"
+  },
+  "netname": "user4",
+  "motherboard": "motherboard4",
+  "RAM_capacity": 8000,
+  "HDD_capacity": 500000,
+  "monitor": "monitor3",
+  "vendor": "MSI",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1690720400000"
+    }
+  },
+  "processor": "processor4",
+  "software": "FireFox"
+},{
+  "_id": {
+    "$oid": "627e16465fbebdb7f0ddfc80"
+  },
+  "netname": "user5",
+  "motherboard": "motherboard5",
+  "RAM_capacity": 32000,
+  "HDD_capacity": 20000000,
+  "monitor": "monitor4",
+  "vendor": "Intel",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "1625540000000"
+    }
+  },
+  "processor": "processor5",
+  "software": "Opera"
+},{
+  "_id": {
+    "$oid": "627e16de5fbebdb7f0ddfc81"
+  },
+  "netname": "user6",
+  "motherboard": "motherboard6",
+  "RAM_capacity": 16000,
+  "HDD_capacity": 1500000,
+  "monitor": "monitor5",
+  "vendor": "Biostar",
+  "guarantee": {
+    "$date": {
+      "$numberLong": "2098774400000"
+    }
+  },
+  "processor": "processor6",
+  "software": "Google Chrome"
+}]
